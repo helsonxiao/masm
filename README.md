@@ -1,7 +1,7 @@
 # masm
 Just Code It
 
-## Instroduction
+## Introduction
 As you can see, theses files are schoolworks.
 No more details except explanations inside.
 
