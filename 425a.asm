@@ -35,6 +35,7 @@ START	PROC FAR    ; 远过程（调用程序不在同一个代码段内）
         PUSH AX
         ADD AL, 30H
         MOV DL, AL
+        MOV AH, 2
         INT 21H
         POP AX
         ; 输出十位
